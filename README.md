@@ -1,2 +1,2 @@
-# SPR
+# Statistical Pattern Recognition
 
